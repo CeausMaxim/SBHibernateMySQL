@@ -1,10 +1,10 @@
-package service.impl;
+package com.example.sbhibernatemysql.service.impl;
 
 import com.example.sbhibernatemysql.exception.ResourceNotFoundException;
 import com.example.sbhibernatemysql.model.Country;
 import org.springframework.stereotype.Service;
 import com.example.sbhibernatemysql.repository.CountryRepository;
-import service.CountryService;
+import com.example.sbhibernatemysql.service.CountryService;
 
 import java.util.List;
 

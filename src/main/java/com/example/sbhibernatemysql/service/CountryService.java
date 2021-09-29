@@ -1,4 +1,4 @@
-package service;
+package com.example.sbhibernatemysql.service;
 
 import com.example.sbhibernatemysql.model.Country;
 
