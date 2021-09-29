@@ -1,6 +1,6 @@
 package service;
 
-import model.Country;
+import com.example.sbhibernatemysql.model.Country;
 
 import java.util.List;
 

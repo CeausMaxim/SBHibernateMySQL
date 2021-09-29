@@ -1,4 +1,4 @@
-package model;
+package com.example.sbhibernatemysql.model;
 
 import lombok.Data;
 
